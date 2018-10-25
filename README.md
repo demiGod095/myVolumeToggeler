@@ -13,7 +13,10 @@ https://github.com/demiGod095/myVolumeToggeler/raw/master/myVolumeToggler.exe
 for those skeptics out there, feel free to download the source and compile the exe yourself, I used visual studio 2017 community for the task. hence the format of the repo. you can download the Program.cs file if you just want the code.
 Repo link : https://github.com/demiGod095/myVolumeToggeler.git
 I also would love to hear your experience, if it works or it doesn't. are any processes being ignored when using the toggle?
-Open for suggestions on improvements and future releases.
-Anyone who wants to add features, please do so by creating a pull request if you would like to share it with others :)
 
+Open for suggestions on improvements/future releases.
+Anyone who wants to add features, please do so by creating a pull request if you would like to share it with others :)
+Also, do let me know if someone has already done this. I tried searching for it, but couldn't find anything like it.
+kudos to this stack-overflow page for showing me how to control the volume mixer.
+https://stackoverflow.com/questions/14306048/controlling-volume-mixer
 Thank you.
